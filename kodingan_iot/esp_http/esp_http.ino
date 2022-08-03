@@ -16,7 +16,7 @@ unsigned long lastTime = 0;
 unsigned long lastTimeButton = 0;
 unsigned long timerDelay = 500;
 
-unsigned long timerLimaMenit = 300_000;
+unsigned long timerLimaMenit = 300000;
 #define DHTTYPE DHT11   // DHT 11
 
 WiFiClient client;
